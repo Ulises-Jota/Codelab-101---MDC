@@ -1,4 +1,4 @@
-# Codelabs for Material Components for Android (MDC-Android)
+# Codelab Material Design Components para Android con Kotlin
 
 Codelab oficial para practicar el uso de Material Design Components en Android con Kotlin, 
 realizando un app llamada Shrine que simula una app de compra y venta de productos como carteras, 
