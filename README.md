@@ -5,3 +5,5 @@ realizando un app llamada Shrine que simula una app de compra y venta de product
 sombreros, joyas, etc., haciendo uso de elementos como CardViews, AppBarLayout, 
 uso de diferentes Themes y tipografías, la utilización de un BackDrop para agregar un menu y
 un sutil movimiento para darle otro efecto a la aparición del menu.
+
+<img src="login.png" width="200">     <img src="products.png" width="200">       <img src="products2.png" width="200">      <img src="backdropMenu.png" width="200">
